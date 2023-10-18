@@ -1,0 +1,18 @@
+Name of Quantlet:  Chinese-Word-Cloud
+
+Published in:     'Data Class Fudan 20231018'
+
+Description:      'This is an example of Chinese word cloud based on the introduction part of a working paper.'
+
+Submitted:  '18 Oct 2023'
+
+Keywords: 
+- 'wordcloud'
+- 'chinese'
+- 'NLP'
+
+Author: 
+- 'ZUO Xiaorui'
+
+See also: 
+- 'Quantlet'
