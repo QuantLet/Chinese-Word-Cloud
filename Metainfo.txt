@@ -2,7 +2,7 @@ Name of Quantlet:  Chinese-Word-Cloud
 
 Published in:     'Data Class Fudan 20231018'
 
-Description:      'This is an example of Chinese word cloud based on the introduction part of a working paper.'
+Description:      'This is an example of Chinese word cloud based on the introduction part of a working paper. It uses a cursor as masking background, fancy font in the picture and shows the main topic of the paper, which is modular and industry.'
 
 Submitted:  '18 Oct 2023'
 
