@@ -11,6 +11,6 @@ Keywords:
 - chinese
 - NLP
 
-Author: ZUO Xiaorui
+Author: ZUO Xiaorui, ZHANG Yunqing
 
 See also: Quantlet
