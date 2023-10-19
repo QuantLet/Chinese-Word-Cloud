@@ -2,15 +2,15 @@ Name of Quantlet:  Chinese-Word-Cloud
 
 Published in:     Data Class Fudan 20231018
 
-Description:      'This is an example of Chinese word cloud based on the introduction part of a working paper. It uses a cursor as masking background, fancy font in the picture and shows the main topic of the paper, which is modular and industry.'
+Description:      This is two examples of Chinese word cloud based on the introduction part of a working paper. The first example uses a cursor as masking background, fancy font in the picture and shows the main topic of the paper, which is modular and industry. And the second one is a word cloud based on the communist manifesto text, with a mask of the portrait of Marx.
 
-Submitted:  '18 Oct 2023'
+Submitted:  18 Oct 2023
 
 Keywords: 
-- 'wordcloud, chinese, NLP'
+- wordcloud 
+- chinese
+- NLP
 
-Author: 
-- 'ZUO Xiaorui'
+Author: ZUO Xiaorui
 
-See also: 
-- 'Quantlet'
+See also: Quantlet
