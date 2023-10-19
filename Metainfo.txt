@@ -7,9 +7,7 @@ Description:      'This is an example of Chinese word cloud based on the introdu
 Submitted:  '18 Oct 2023'
 
 Keywords: 
-- 'wordcloud'
-- 'chinese'
-- 'NLP'
+- 'wordcloud, chinese, NLP'
 
 Author: 
 - 'ZUO Xiaorui'
